@@ -70,10 +70,10 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  
 **Logic symbol & Truthtable**
 
-**RTL realization Output:** 
-
+**RTL realization Output:**
+"C:\Users\lavan\OneDrive\Documents\DIGITAL ELECTRONICS\RTL VIEWER.pdf"
 **RTL**
 
 **Result:**
-
+Thus all the logic gates and their corresponding truth tables were successfully verified using Quartus II software.
 
