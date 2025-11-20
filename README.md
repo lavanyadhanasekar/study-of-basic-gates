@@ -71,8 +71,10 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 **Logic symbol & Truthtable**
 
 **RTL realization Output:**
-"C:\Users\lavan\OneDrive\Documents\DIGITAL ELECTRONICS\RTL VIEWER.pdf"
+<img width="1160" height="810" alt="Screenshot 2025-11-20 221956" src="https://github.com/user-attachments/assets/4f6265d9-baaa-48bc-a4ea-298a32d78d71" />
+
 **RTL**
+<img width="1919" height="1079" alt="WAVE FORM- LAB1" src="https://github.com/user-attachments/assets/4d6757b2-32fe-4ead-bd77-64b850e5c728" />
 
 **Result:**
 Thus all the logic gates and their corresponding truth tables were successfully verified using Quartus II software.
